@@ -37,3 +37,7 @@ Each release includes:
 ## 📝 Notes
 - Tooltip text must be under 63 characters (Windows limitation).
 - Script uses `System.Windows.Forms.NotifyIcon` for tray integration.
+- 
+## 🙌 Credits
+This project was developed by Hamid with guidance from Microsoft Copilot.
+
